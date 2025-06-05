@@ -344,7 +344,7 @@ float randomFloat(float a, float b) {
 [[noreturn]]
 int main(int argc, char **argv)
 {
-    auto window = std::make_shared<ES2SDLWindow>("asr 2.0", 1280, 720);
+    auto window = std::make_shared<ES2SDLWindow>("asr 2.0");
     window->set_capture_mouse_enabled(true);
     window->set_relative_mouse_mode_enabled(true);
 
