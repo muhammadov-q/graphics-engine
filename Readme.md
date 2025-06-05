@@ -1,10 +1,13 @@
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #9102a1; letter-spacing: 2px; margin-bottom: 0.5rem;">
-    Shooter Game Showcase
-  </h1>
-  <hr style="width: 60px; height: 4px; background-color: #2980b9; border: none; margin: 0 auto 1rem;" />
-  <img src="data/game/game.gif" alt="FPS Shooter Gameplay" style="width: 80%; max-width: 900px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
-</div>
+<p align="center">
+
+# Shooter Game Showcase
+
+</p>
+
+<p align="center">
+  <img src="data/game/game.gif" alt="FPS Shooter Gameplay" width="80%" />
+</p>
+
 
 Explore a fully playable FPS-style game built with the `asr` renderer in C++. This game demonstrates the power and flexibility of the framework by implementing a classic first-person shooter experience featuring:
 
