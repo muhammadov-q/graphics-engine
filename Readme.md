@@ -1,12 +1,21 @@
 <p align="center">
-
-# Shooter Game Showcase
+<h1 align="center">Shooter Game Showcase</h1>
 
 </p>
 
 <p align="center">
   <img src="data/game/game.gif" alt="FPS Shooter Gameplay" width="80%" />
 </p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://en.cppreference.com/w/cpp/17"><img src="https://img.shields.io/badge/C%2B%2B-17-blue.svg" alt="C++17"></a>
+  <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-3.25+-orange.svg" alt="CMake"></a>
+  <a href="https://conan.io/"><img src="https://img.shields.io/badge/Conan-2.0+-lightgrey.svg" alt="Conan"></a>
+  <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-2.0+-green.svg" alt="OpenGL"></a>
+  <a href="https://www.libsdl.org/"><img src="https://img.shields.io/badge/SDL-2.0-blueviolet.svg" alt="SDL"></a>
+</p>
+
 
 
 Explore a fully playable FPS-style game built with the `asr` renderer in C++. This game demonstrates the power and flexibility of the framework by implementing a classic first-person shooter experience featuring:
@@ -171,3 +180,7 @@ Ensure all the prerequisites are installed before proceeding.
     ```
 
     You may need to set the Working Directory (CWD) in your IDE manually for some test targets to locate shader or image files.
+
+<p align="center">
+  <i>Developed with ♥ by <a href="https://www.kobiljon.com">Kobiljon</a></i>
+</p>
