@@ -89,3 +89,6 @@ target_link_libraries(normal_mapping_test ${ASR_LIBRARIES})
 
 add_executable(general_usage_test ${ASR_SOURCES} "tests/general_usage_test.cpp")
 target_link_libraries(general_usage_test ${ASR_LIBRARIES})
+
+add_executable(game_test ${ASR_SOURCES} "tests/game_test.cpp")
+target_link_libraries(game_test ${ASR_LIBRARIES})
